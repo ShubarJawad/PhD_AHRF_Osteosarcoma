@@ -19,6 +19,13 @@ The research develops an **Adaptive Hybrid Regression Framework (AHRF)** that co
 5. Establish theoretical foundation for "Adaptive Imbalanced Regression"
 
 ## 🗂️ Repository Structure
+PhD_AHRF_Osteosarcoma/
+├── code/ # All source code (Python notebooks, scripts)
+├── data/ # Data sources and references (no actual patient data)
+├── docs/ # Thesis document, progress reports, manuscripts
+├── references/ # PDFs of key papers and literature
+├── presentations/ # Conference and committee presentations
+└── results/ # Figures, tables, and experimental results
 
 ## 🔬 Current Focus (Next 4 Months)
 - **Month 1-2:** Implement and benchmark data imbalance techniques on simulated data
