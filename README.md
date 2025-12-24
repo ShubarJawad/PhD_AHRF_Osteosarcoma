@@ -3,7 +3,7 @@
 **Researcher:** Shubar S. Jawad ALKHAIAT  
 **Supervisor:** Prof. Dr. Kamil ALAKUŞ  
 **University:** Ondokuz Mayis University  
-**Date Started:** January 2025
+**Date Started:** December 2025
 **Status:** Active Development - Phase 2 (Data Preprocessing Pipeline)
 
 ## 📋 Project Overview
